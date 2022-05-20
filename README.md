@@ -14,7 +14,7 @@ Conheça meu linkedin
   </a>
 </div>
 <br>
-- 🔭 Atualmente estou buscando uma oportunidade
-- 🌱 Estou me aprofundando em React e styled components
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estou buscando uma oportunidade<br>
+- 🌱 Estou me aprofundando em React e styled components<br>
+- 😄 Pronouns: ele/dele<br>
 
