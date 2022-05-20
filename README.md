@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, me chamo Celso
 
-<!--
-**cmilleo/cmilleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conheça meu linkedin
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/celsoricardomilleo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile linkedin de Celso" target="_blank">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/cmilleo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmilleo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmilleo&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+- 🔭 Atualmente estou buscando uma oportunidade
+- 🌱 Estou me aprofundando em React e styled components
+- 😄 Pronouns: ele/dele
+
